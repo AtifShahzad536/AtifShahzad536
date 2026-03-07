@@ -7,6 +7,33 @@
 </div>
 
 ---
+🔭 I'm currently working on Library system
+
+🌱 I'm currently learning Laravel
+
+👯 I'm looking to collaborate on CRM
+
+🤝 I'm looking for help with learning laravel
+
+💬 Ask me about Reavt,node,FastAPI,python,express,laravel,mongodb,mongoos,mysql,postgresql
+
+📫 How to reach me atifshahzad.develper@gmail.com
+
+⚡ Fun fact i think i ma funny when i got success in code running with no error
+
+👨‍💻 All of my projects are available at https://atifshahzad.vercel.app
+
+📝 I regularly write articles on https://atifshahzad.vercel.app
+
+Connect with me:
+https://github.com/AtifShahzad536 atif-shahzad903 atif._.shahzad atifjaanjaan536
+
+Languages and Tools:
+android bootstrap csharp css3 express fastapi firebase git html5 javascript laravel matlab matplotlib mongodb mysql nodejs numpy pandas photoshop php postgresql postman python react reactnative redux typescript
+
+https://github.com/AtifShahzad536
+
+ https://github.com/AtifShahzad536
 
 📋 About Me
 
