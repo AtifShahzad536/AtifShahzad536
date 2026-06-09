@@ -58,9 +58,11 @@ Full-stack developer at **Technosofts** — building scalable web apps, ecommerc
 
 <div align="center">
 
-  ![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifShahzad536&show_icons=true&theme=default&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=AtifShahzad536&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="Atif's GitHub Stats" />
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifShahzad536&layout=compact&theme=default&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtifShahzad536&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+  <img src="https://streak-stats.demolab.com?user=AtifShahzad536&theme=default&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
